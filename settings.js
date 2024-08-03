@@ -11,7 +11,7 @@ global.socialm = "GitHub: Astasebot"
 global.location = "Africa, Zimbabwe, Harare"
 
 global.ownernumber = '263789771339,263716550255'  //creator number
-global.ownername = 'David Cyril' //Name of owner
+global.ownername = 'Kira 編者' //Name of owner
 global.botname = '🦇Batman-V1🦇' //Bot name
 
 //sticker details
